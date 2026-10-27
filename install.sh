@@ -25,7 +25,8 @@ main() {
   printf '\033[1m%s — installation\033[0m\n' "${NAME% Launcher}"
   [ "$(uname -s)" = Darwin ] || fail "Lucraft s'installe sur un Mac (macOS)."
   major="$(sw_vers -productVersion | cut -d. -f1)"
-  [ "$major" -ge 13 ] 2>/dev/null || fail "Il faut macOS 13 (Ventura) ou plus récent. Ce Mac a macOS $(sw_vers -productVersion)."
+  # Comme les apps et le launcher (LSMinimumSystemVersion 11.0) : beaucoup de Mac Intel restent en 11 ou 12.
+  [ "$major" -ge 11 ] 2>/dev/null || fail "Il faut macOS 11 (Big Sur) ou plus récent. Ce Mac a macOS $(sw_vers -productVersion)."
   case "$(uname -m)" in arm64) ARCH=aarch64 ;; *) ARCH=x86_64 ;; esac
 
   work="$(mktemp -d)"
