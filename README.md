@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/banner.svg" alt="Lucraft : dix-neuf apps créatives pour Mac, un launcher, Claude aux commandes" width="100%">
+  <img src="media/banner.svg" alt="Lucraft : vingt apps créatives pour Mac, un launcher, Claude aux commandes" width="100%">
 </p>
 
 <p align="center">
@@ -98,10 +98,10 @@ Elles s'installent depuis le launcher comme les autres ; le badge BÊTA dit qu'e
 | <img src="media/icons/lucraft-anything.png" width="40"> | **Lucraft Anything** `BÊTA` | L'IA étudie un site ou une app et en construit sa version avec Claude Code |
 | <img src="media/icons/archilucraft.png" width="40"> | **ArchiLucraft** `BÊTA` | Maquettes BIM : ouvrir, relire et corriger des fichiers IFC |
 | <img src="media/icons/constructlucraft.png" width="40"> | **ConstructLucraft** `BÊTA` | Conception de bâtiment pour architectes (licence GPL, code source publié avec l'app) |
+| <img src="media/icons/modellucraft.png" width="40"> | **ModelLucraft** `BÊTA` | Maquettage 3D direct : dessiner, pousser, tirer, grouper, exporter |
 
 ### Bientôt
 
-- **Volumétrie 3D** : volumes 3D rapides, nom à venir.
 - **Annotation de plans** : annoter des plans PDF, nom à venir.
 
 ## Repris et amélioré
