@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/banner.svg" alt="Lucraft : vingt-trois apps créatives pour Mac, un launcher, Claude aux commandes" width="100%">
+  <img src="media/banner.svg" alt="Lucraft : vingt-quatre apps créatives pour Mac, un launcher, Claude aux commandes" width="100%">
 </p>
 
 <p align="center">
@@ -102,6 +102,7 @@ Elles s'installent depuis le launcher comme les autres ; le badge BÊTA dit qu'e
 | <img src="media/icons/markuplucraft.png" width="40"> | **MarkupLucraft** `BÊTA` | Annoter et vérifier des plans PDF : mesures à l'échelle, statuts, export CSV et BCF |
 | <img src="media/icons/takeofflucraft.png" width="40"> | **TakeoffLucraft** `BÊTA` | Métré sur plans PDF et DWG : comptages, longueurs, surfaces, export XLSX |
 | <img src="media/icons/civillucraft.png" width="40"> | **CivilLucraft** `BÊTA` | Terrain et VRD : relevés, surfaces, terrassements, réseaux, export LandXML et DWG |
+| <img src="media/icons/detaillucraft.png" width="40"> | **DetailLucraft** `BÊTA` | Charpente métallique et ferraillage : assemblages, plans d'atelier, nomenclatures, fichiers de découpe |
 
 ### Bientôt
 
