@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/banner.svg" alt="Lucraft : vingt et une apps créatives pour Mac, un launcher, Claude aux commandes" width="100%">
+  <img src="media/banner.svg" alt="Lucraft : vingt-deux apps créatives pour Mac, un launcher, Claude aux commandes" width="100%">
 </p>
 
 <p align="center">
@@ -100,6 +100,7 @@ Elles s'installent depuis le launcher comme les autres ; le badge BÊTA dit qu'e
 | <img src="media/icons/constructlucraft.png" width="40"> | **ConstructLucraft** `BÊTA` | Conception de bâtiment pour architectes (licence GPL, code source publié avec l'app) |
 | <img src="media/icons/modellucraft.png" width="40"> | **ModelLucraft** `BÊTA` | Maquettage 3D direct : dessiner, pousser, tirer, grouper, exporter |
 | <img src="media/icons/markuplucraft.png" width="40"> | **MarkupLucraft** `BÊTA` | Annoter et vérifier des plans PDF : mesures à l'échelle, statuts, export CSV et BCF |
+| <img src="media/icons/takeofflucraft.png" width="40"> | **TakeoffLucraft** `BÊTA` | Métré sur plans PDF et DWG : comptages, longueurs, surfaces, export Excel |
 
 ### Bientôt
 
